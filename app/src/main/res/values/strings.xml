@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Quiz</string>
+    <string name="btStart">Start</string>
+    <string name="btExit">Exit</string>
+    <string name="btScore">Score</string>
+    <string name="btSettings">Settings</string>
 </resources>
